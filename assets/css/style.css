@@ -11,10 +11,13 @@
 }
 
 @font-face {
-    font-family: Huracan;
-    src: url("/assets/fonts/Hurricane-Regular.ttf");
+    font-family: MOON;
+    src: url("../fonts/BerkshireSwash-Regular.ttf");
 }
 
+a{
+    font-family: MOON;
+}
 
 /*DISEÑO DE GRILLA PARA MOBIL*/
 
