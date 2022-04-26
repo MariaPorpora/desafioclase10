@@ -10,6 +10,11 @@
     --color4: #ffffff;
 }
 
+@font-face {
+    font-family: Huracan;
+    src: url("/assets/fonts/Hurricane-Regular.ttf");
+}
+
 
 /*DISEÑO DE GRILLA PARA MOBIL*/
 
